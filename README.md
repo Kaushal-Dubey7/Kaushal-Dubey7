@@ -19,3 +19,5 @@ Hi 👋 I’m Kaushal Dubey, a MERN Stack Developer with a strong foundation in 
 [![](https://visitcount.itsvg.in/api?id=Kaushal-Dubey7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/Kaushal-Dubey7/Kaushal-Dubey7/blob/output/github-snake-dark.svg)
