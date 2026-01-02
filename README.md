@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I’m Kaushal Dubey, a MERN Stack Developer with a strong foundation in Data Structures & Algorithms and a passion for building futuristic, scalable web applications.<br><br>I enjoy transforming ideas into real-world products using clean architecture, optimized performance, and modern UI/UX principles. My focus is not just on writing code, but on building maintainable, production-ready solutions that solve real problems.<br><br>💡 I believe in:<br><br>Writing clean & efficient code<br><br>Learning by building<br><br>Constantly improving through DSA & system thinking<br><br>🌐 What I’m Working On<br><br>🚀 Building futuristic MERN applications<br><br>⚙️ Improving backend performance & API design<br><br>🧠 Strengthening problem-solving skills with DSA<br><br>📦 Writing reusable components & scalable architectures<br><br>
+Hi 👋 I’m Kaushal Dubey, a MERN Stack Developer with a strong foundation in Data Structures & Algorithms and a passion for building futuristic, scalable web applications.<br><br>I enjoy transforming ideas into real-world products using clean architecture, optimized performance, and modern UI/UX principles. My focus is not just on writing code, but on building maintainable, production-ready solutions that solve real problems.<br><br>
 
 
 ## 🌐 Socials:
