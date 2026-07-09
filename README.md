@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 👋 I’m Kaushal Dubey, a MERN Stack Developer with a strong foundation in Data Structures & Algorithms and a passion for building futuristic, scalable web applications.<br><br>I enjoy transforming ideas into real-world products using clean architecture, optimized performance, and modern UI/UX principles. My focus is not just on writing code, but on building maintainable, production-ready solutions that solve real problems.<br><br>
-
+ 
 <!--
 //## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ikaushaldubey/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kaushal-dubey-037942399) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dkaushal129@gmail.com) -->
